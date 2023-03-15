@@ -25,12 +25,12 @@ This is a CLI application that employs mongoose, express, and moment to facilita
 
 ## Installation
 
-- Clone it through Github
-- Insomnia is installed on your own computer
-- MongoDB Compass is installed on your own computer
-- express is installed
-- mongoose is installed
-- moment is installed
+Clone it through Github
+Insomnia is installed on your own computer
+MongoDB Compass is installed on your own computer
+express is installed
+mongoose is installed
+moment is installed
 
 ## Usage
 
@@ -51,3 +51,6 @@ We welcome contributions from the community!
 
 ## Tests
 None
+
+## Questions
+email: brandmckie@gmail.com
