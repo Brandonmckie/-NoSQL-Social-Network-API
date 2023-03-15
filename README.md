@@ -42,3 +42,12 @@ Type "npm i mongoose" into terminal
 Type "npm i moment" into terminal
 Type "npm start" into the terminal
 Once you see the "Now Listening" indication, you may open up your MongoDB Compass and Insomnia software.
+
+## License
+MIT
+
+## Contributing
+We welcome contributions from the community!
+
+## Tests
+None
